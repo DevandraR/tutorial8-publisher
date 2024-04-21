@@ -21,4 +21,8 @@ koneksi pertama berhasil dibuat
 
 subscriber menerima pesan dari publisher
 
+<a href="https://ibb.co/xqhVWDq"><img src="https://i.ibb.co/PGxBKNG/Rabbit-MQ-Spike.png" alt="Rabbit-MQ-Spike" border="0"></a>
+
+spike terjadi karena publisher berusaha mengirimkan pesan ke subscriber
+
 </details>

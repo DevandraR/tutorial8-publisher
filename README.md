@@ -13,4 +13,12 @@ Jawab : Jika URL "amqp://guest:guest@localhost:5672" digunakan baik dalam progra
 
 <a href="https://ibb.co/bz6VH3J"><img src="https://i.ibb.co/9sp0wvt/Rabbit-MQ-1.png" alt="Rabbit-MQ-1" border="0"></a>
 
+<a href="https://ibb.co/B6Fydfz"><img src="https://i.ibb.co/n1t7Zwg/Rabbit-MQ-Connection.png" alt="Rabbit-MQ-Connection" border="0"></a>
+
+koneksi pertama berhasil dibuat
+
+<a href="https://ibb.co/sy2YGKn"><img src="https://i.ibb.co/4P7rG8z/Rabbit-MQ-Subscriber-Receive.png" alt="Rabbit-MQ-Subscriber-Receive" border="0"></a>
+
+subscriber menerima pesan dari publisher
+
 </details>
